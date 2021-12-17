@@ -1,0 +1,21 @@
+{
+    "type": "AdaptiveCard",
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.3",
+    "body": [
+        {
+            "type": "TextBlock",
+            "wrap": true,
+            "text": "THX FOR CONNECTING WITH US ",
+            "spacing": "None",
+            "horizontalAlignment": "Center",
+            "size": "Large",
+            "color": "Good",
+            "weight": "Bolder"
+        },
+        {
+            "type": "Image",
+            "url": "https://media.giphy.com/media/X8M7iRwOKUlyg/giphy.gif"
+        }
+    ]
+}
